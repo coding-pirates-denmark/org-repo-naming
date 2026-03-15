@@ -11,6 +11,10 @@ Hvis du har travlt, så er dette alt du behøver.
 
 Brug formatet:
 
+```
+<kategori>-<underemne>-<projekt>
+```
+
 **Eksempler:**
 - `games-pygame-platformer`
 - `hardware-microbit-ledgame`
@@ -42,7 +46,36 @@ Alle repos starter med ét af disse præfikser:
 
 ---
 
-# 3️⃣ Tilføj GitHub Topics
+# 3️⃣  Vælg passende underemner
+Underemnet beskriver teknologien eller platformen.
+
+Eksempler:
+
+- `pygame`
+- `kaplay`
+- `godot`
+- `microbit`
+- `raspberrypi`
+- `arduino`
+- `htmlcss`
+- `python`
+- `js`
+- `react`
+
+# 4️⃣ Vælg projektnavn
+
+Projektdelen beskriver projektets titel, fx:
+
+- `streetfighter`
+- `platformer`
+- `space-shooter`
+- `sensor-kit`
+- `basic-site`
+- `imageclassifier`
+
+Hold det kort, klart og uden specialtegn.
+
+# 5️⃣ Tilføj GitHub Topics
 
 Mindst disse:
 
@@ -60,7 +93,7 @@ Mindst disse:
 
 ---
 
-# 4️⃣ Brug en god README
+# 6️⃣ Brug en god README
 
 Tilføj mindst:
 
@@ -74,7 +107,7 @@ Tilføj mindst:
 
 ---
 
-# 5️⃣ Tjekliste inden du opretter repoet
+# 7️⃣ Tjekliste inden du opretter repoet
 
 ✔ Har du brugt korrekt navngivning?  
 ✔ Har du valgt det rigtige kategoripræfiks?  
