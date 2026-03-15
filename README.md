@@ -8,6 +8,21 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
 
 ---
 
+# 📚 Indholdsfortegnelse (Table of Contents)
+
+- [🧭 Formål](#-formål)
+- [🏗️ Navngivningsprincipper](#️-navngivningsprincipper)
+- [🟦 1. Kategoripræfikser](#1-kategoripræfikser)
+- #2-underemner
+- [🟨 3. Projektnavn](#3-projektnavn)
+- [🧩 Eksempler på korrekte repo-navne](#-eksempler-på-korrekte-repo-navne)
+- [📝 Tjekliste inden du opretter et repo](#-tjekliste-inden-du-opretter-et-repo)
+- [📨 Forslag til nye kategorier?](#-forslag-til-nye-kategorier)
+- #-tak
+
+---
+
+
 ## 🧭 Formål
 
 - Sikre en klar og ensartet repo-struktur  
