@@ -1,27 +1,7 @@
 # 🏴‍☠️ Coding Pirates Denmark — Repository Naming Guidelines
 
-
-## ⚡ Quick Start
-
-Vil du oprette et nyt repository? Følg disse 3 hurtige trin:
-
-1. **Navngiv repoet efter formatet:**  
-   `<kategori>-<underemne>-<projekt>`  
-   _Eksempel: `games-pygame-platformer`_
-
-2. **Brug et passende kategoripræfiks:**  
-   `games-`, `hardware-`, `web-`, `ai-`, `robotics-`, `resources-`, `templates-`, `admin-`, `org-`
-
-3. **Tilføj GitHub Topics:**  
-   Mindst: `coding-pirates` + `<kategori>`  
-   _Eksempel: `coding-pirates, games, pygame, python`_
-
-👉 Detaljerede regler og eksempler finder du nedenfor.
-
----
-
-
 Velkommen til **Coding Pirates Denmark – Repository Naming Guidelines**.  
+
 Dette dokument beskriver, hvordan repositories skal navngives i vores GitHub-organisation, så vi kan skabe en struktur, der er **overskuelig**, **genkendelig** og **nem at arbejde med** for både nye og erfarne frivillige.
 
 Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivillig – følger en fælles standard, der gør det nemt at finde, søge og vedligeholde materialer.
@@ -31,6 +11,7 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
 # 📚 Table of Contents
 
 - [🧭 Formål](#-formål)
+- [⚡ Quick Start](#-quick-start)
 - [🏗️ Navngivningsprincipper](#️-navngivningsprincipper)
 - [🟦 1. Kategoripræfikser](#1-kategoripræfikser)
 - [🟩 2. Underemner](#2-underemner)
@@ -49,6 +30,25 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
 - Gøre det lettere for frivillige at finde relevant materiale  
 - Understøtte samarbejde på tværs af afdelinger  
 - Skabe et professionelt og genkendeligt udtryk for hele organisationen  
+
+---
+
+## ⚡ Quick Start
+
+Vil du oprette et nyt repository? Følg disse 3 hurtige trin:
+
+1. **Navngiv repoet efter formatet:**  
+   `<kategori>-<underemne>-<projekt>`  
+   _Eksempel: `games-pygame-platformer`_
+
+2. **Brug et passende kategoripræfiks:**  
+   `games-`, `hardware-`, `web-`, `ai-`, `robotics-`, `resources-`, `templates-`, `admin-`, `org-`
+
+3. **Tilføj GitHub Topics:**  
+   Mindst: `coding-pirates` + `<kategori>`  
+   _Eksempel: `coding-pirates, games, pygame, python`_
+
+👉 Detaljerede regler og eksempler finder du nedenfor.
 
 ---
 
