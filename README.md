@@ -12,8 +12,8 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
 
 - [🧭 Formål](#-formål)
 - [🏗️ Navngivningsprincipper](#️-navngivningsprincipper)
-- [🟦 1. Kategoripræfikser](#1-kategoripræfikser)
-- #2-underemner
+- [🟦 1. Kategoripræfikser](#-1-kategoripræfikser)
+- [🟩 2. Underemner](#-2-underemner)
 - [🟨 3. Projektnavn](#3-projektnavn)
 - [🧩 Eksempler på korrekte repo-navne](#-eksempler-på-korrekte-repo-navne)
 - [📝 Tjekliste inden du opretter et repo](#-tjekliste-inden-du-opretter-et-repo)
