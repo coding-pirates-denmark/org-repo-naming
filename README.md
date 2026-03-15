@@ -20,6 +20,8 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
   - [🔌 Hardware](#-hardware)
   - [🌐 Web](#-web)
   - [🤖 AI](#-ai)
+  - [📚 Ressourcer](#-ressourcer)
+  - [🛠️ Organisation & skabeloner](#-organisation-skabeloner)
 - [📝 Tjekliste inden du opretter et repo](#-tjekliste-inden-du-opretter-et-repo)
 - [📨 Forslag til nye kategorier?](#-forslag-til-nye-kategorier)
 - [🏁 Tak](#-tak-fordi-du-hjælper-med-at-holde-gitHub-organisatio­nen-overskuelig)
