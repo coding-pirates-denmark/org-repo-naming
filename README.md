@@ -13,9 +13,9 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
 1. [🧭 Formål](#-formål)
 2. [⚡ Quick Start](#-quick-start)
 3. [🏗️ Navngivningsprincipper](#️-navngivningsprincipper)
-   1. [🟦 Kategoripræfikser](#-kategoripræfikser)
-   2. [🟩 Underemner](#-underemner)
-   3. [🟨 Projektnavn](#-projektnavn)
+   1. [🔴 Kategoripræfikser](#-kategoripræfikser)
+   2. [🟡 Underemner](#-underemner)
+   3. [🟢 Projektnavn](#-projektnavn)
 4. [🏷️ Topics](#️-topics)
 5. [🧩 Eksempler på korrekte repo-navne](#-eksempler-på-korrekte-repo-navne)
 6. [📝 Tjekliste inden du opretter et repo](#-tjekliste-inden-du-opretter-et-repo)
@@ -75,7 +75,7 @@ Specialtegn, mellemrum og `/` må **ikke** bruges.
 
 ---
 
-## 🟦 Kategoripræfikser
+## 🔴 Kategoripræfikser
 
 Hvert repo starter med et præfiks, der angiver emnet.
 
@@ -95,7 +95,7 @@ Hvert repo starter med et præfiks, der angiver emnet.
 
 ---
 
-## 🟩 Underemner
+## 🟡 Underemner
 
 Underemnet beskriver teknologien eller platformen.
 
@@ -114,7 +114,7 @@ Eksempler:
 
 ---
 
-## 🟨 Projektnavn
+## 🟢 Projektnavn
 
 Projektdelen beskriver projektets titel, fx:
 
