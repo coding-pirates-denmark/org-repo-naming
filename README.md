@@ -112,8 +112,6 @@ Eksempler:
 - `js`
 - `react`
 
-Underemnet er **valgfrit**, men anbefales hvis det gør repoet lettere at forstå.
-
 ---
 
 ## 🟨 Projektnavn
