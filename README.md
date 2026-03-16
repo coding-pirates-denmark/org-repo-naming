@@ -34,17 +34,25 @@ Målet er, at alle projekter – uanset teknologi, hold, afdeling eller frivilli
 ---
 
 ## ⚡ Quick Start
+Repos **skal** følge dette format, og tilføjes GitHub Topics:
 
-Vil du oprette et nyt repository? Følg disse 3 hurtige trin:
-
-1. **Navngiv repoet efter formatet:**  
-   `<kategori>-<underemne>-<projekt>`  
+- **Navngiv repoet efter formatet:**  
+   `<kategori>-<underemne>-<projektnavn>`  
    _Eksempel: `games-pygame-platformer`_
 
-2. **Brug et passende kategoripræfiks:**  
-   `games-`, `hardware-`, `web-`, `ai-`, `robotics-`, `resources-`, `templates-`, `admin-`, `org-`
 
-3. **Tilføj GitHub Topics:**  
+Så vil du oprette et nyt repository? Så følg disse 4 hurtige trin:
+
+1. **Brug et kategoripræfiks for emnet:**  
+   _Eksempler: `games-`, `hardware-`, `web-`, `ai-`, `robotics-`, `resources-`, `templates-`, `admin-`, `org-`_
+
+2. **Brug et underemne for teknologi eller platform:**  
+   _Eksempler: `microbit-`, `pygame-`, `react-`, `arduino-`, `python-`_
+
+3. **Brug et (kort) projektnavn**:
+   _Eksempler: `streetfighter`, `platformer`, `sensor-kit`, `space-shooter`_
+
+4. **Tilføj GitHub Topics:**  
    Mindst: `coding-pirates` + `<kategori>`  
    _Eksempel: `coding-pirates, games, pygame, python`_
 
