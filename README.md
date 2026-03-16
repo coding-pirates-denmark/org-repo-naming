@@ -258,7 +258,7 @@ resources-teacher-guide
 ```
 org-repo-naming
 admin-organization-handbook
-templates-project
+templates-project-readme
 ```
 
 ---
