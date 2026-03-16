@@ -49,7 +49,7 @@ Så vil du oprette et nyt repository? Så følg disse 4 hurtige trin:
 2. **Brug et underemne for teknologi eller platform:**  
    _Eksempler: `microbit-`, `pygame-`, `react-`, `arduino-`, `python-`_
 
-3. **Brug et (kort) projektnavn**:
+3. **Brug et (kort) projektnavn**:  
    _Eksempler: `streetfighter`, `platformer`, `sensor-kit`, `space-shooter`_
 
 4. **Tilføj GitHub Topics:**  
